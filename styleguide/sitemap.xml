@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://3ddie.github.io/styles/articles/colors/</loc>
+    <loc>https://3ddie.github.io/styleguide/articles/colors/</loc>
     <lastmod>2017-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://3ddie.github.io/styles/articles/tables/</loc>
+    <loc>https://3ddie.github.io/styleguide/articles/tables/</loc>
     <lastmod>2017-04-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://3ddie.github.io/styles/tags/index.vimrc/</loc>
-    <lastmod>2017-04-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://3ddie.github.io/styles/articles/</loc>
+    <loc>https://3ddie.github.io/styleguide/tags/index.vimrc/</loc>
     <lastmod>2017-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3ddie.github.io/styles/</loc>
+    <loc>https://3ddie.github.io/styleguide/articles/</loc>
     <lastmod>2017-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3ddie.github.io/styles/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://3ddie.github.io/styles/categories/development/</loc>
+    <loc>https://3ddie.github.io/styleguide/</loc>
     <lastmod>2017-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3ddie.github.io/styles/tags/plugins/</loc>
+    <loc>https://3ddie.github.io/styleguide/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3ddie.github.io/styleguide/categories/development/</loc>
     <lastmod>2017-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3ddie.github.io/styles/tags/spf13-vim/</loc>
+    <loc>https://3ddie.github.io/styleguide/tags/plugins/</loc>
     <lastmod>2017-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3ddie.github.io/styles/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://3ddie.github.io/styles/tags/vim/</loc>
+    <loc>https://3ddie.github.io/styleguide/tags/spf13-vim/</loc>
     <lastmod>2017-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://3ddie.github.io/styles/categories/vim/</loc>
+    <loc>https://3ddie.github.io/styleguide/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3ddie.github.io/styleguide/tags/vim/</loc>
+    <lastmod>2017-04-04T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://3ddie.github.io/styleguide/categories/vim/</loc>
     <lastmod>2017-04-04T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
