@@ -1,0 +1,125 @@
+.book-menu-wrap .tabs ul {
+  min-width: 470px; }
+
+.book-menu-wrap .tabs li {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 1 auto;
+          flex: 1 1 auto; }
+
+.book-menu-wrap .tabs-content {
+  min-height: 360px; }
+  .book-menu-wrap .tabs-content .tab-content {
+    width: 470px; }
+    .book-menu-wrap .tabs-content .tab-content.tab-content-camps {
+      width: 785px;
+      color: #fff;
+      padding-top: 35px;
+      margin-left: -100px; }
+      @media all and (max-width: 960px) {
+        .book-menu-wrap .tabs-content .tab-content.tab-content-camps {
+          margin-left: 0; } }
+      .book-menu-wrap .tabs-content .tab-content.tab-content-camps a {
+        color: #fff;
+        border-color: rgba(255, 255, 255, 0.33); }
+      .book-menu-wrap .tabs-content .tab-content.tab-content-camps .help-message {
+        margin-top: 20px; }
+      .book-menu-wrap .tabs-content .tab-content.tab-content-camps .row-title {
+        opacity: 0.6; }
+      .book-menu-wrap .tabs-content .tab-content.tab-content-camps .choose-camp-row {
+        margin-bottom: 25px; }
+        .book-menu-wrap .tabs-content .tab-content.tab-content-camps .choose-camp-row:first-child .row-content {
+          -webkit-box-flex: 1;
+              -ms-flex: 1;
+                  flex: 1;
+          border-bottom: 1px solid rgba(255, 255, 255, 0.1); }
+        .book-menu-wrap .tabs-content .tab-content.tab-content-camps .choose-camp-row .styled-radio-button {
+          margin-bottom: 0; }
+      .book-menu-wrap .tabs-content .tab-content.tab-content-camps .icon-wrap img {
+        width: 70px;
+        height: 70px; }
+      @media all and (max-width: 720px) {
+        .book-menu-wrap .tabs-content .tab-content.tab-content-camps .icon-wrap img {
+          width: 100px;
+          height: 100px; } }
+      .book-menu-wrap .tabs-content .tab-content.tab-content-camps .camp-row-title, .book-menu-wrap .tabs-content .tab-content.tab-content-camps .has-logo {
+        padding-top: 90px;
+        margin-right: 0; }
+        @media all and (max-width: 720px) {
+          .book-menu-wrap .tabs-content .tab-content.tab-content-camps .camp-row-title, .book-menu-wrap .tabs-content .tab-content.tab-content-camps .has-logo {
+            padding-top: 120px; } }
+      @media all and (max-width: 720px) {
+        .book-menu-wrap .tabs-content .tab-content.tab-content-camps .camp-row-title {
+          padding-top: 30px; } }
+      .book-menu-wrap .tabs-content .tab-content.tab-content-camps .check-in-rows {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex; }
+        .book-menu-wrap .tabs-content .tab-content.tab-content-camps .check-in-rows .check-in-row {
+          width: 100%; }
+        .book-menu-wrap .tabs-content .tab-content.tab-content-camps .check-in-rows ul:first-child {
+          padding-right: 20px; }
+      .book-menu-wrap .tabs-content .tab-content.tab-content-camps .check-in-message {
+        background: rgba(0, 0, 0, 0.1);
+        color: #fff;
+        text-align: center;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-top: 20px; }
+        .book-menu-wrap .tabs-content .tab-content.tab-content-camps .check-in-message .price {
+          color: #fff; }
+      .book-menu-wrap .tabs-content .tab-content.tab-content-camps .bottom-wrap {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        margin-top: -10px;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        padding-left: 100px; }
+        @media all and (max-width: 720px) {
+          .book-menu-wrap .tabs-content .tab-content.tab-content-camps .bottom-wrap {
+            padding-left: 0; } }
+        .book-menu-wrap .tabs-content .tab-content.tab-content-camps .bottom-wrap a {
+          margin: 0; }
+        .book-menu-wrap .tabs-content .tab-content.tab-content-camps .bottom-wrap .action-button {
+          margin-bottom: 20px; }
+        .book-menu-wrap .tabs-content .tab-content.tab-content-camps .bottom-wrap .info-link {
+          font-size: 14px;
+          opacity: 0.5; }
+
+.book-menu-wrap .book-form {
+  color: #fff;
+  font-weight: 500;
+  font-size: 16px; }
+  .book-menu-wrap .book-form .book-form-row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    position: relative; }
+    .book-menu-wrap .book-form .book-form-row .styled-checkbox {
+      margin: 0 10px; }
+
+.book-menu-wrap .inputs-wrap {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap; }
+  .book-menu-wrap .inputs-wrap label {
+    display: block;
+    margin: 15px 0 5px 0; }
+  .book-menu-wrap .inputs-wrap > div {
+    -ms-flex-preferred-size: auto;
+        flex-basis: auto;
+    width: 50%;
+    padding-right: 10px; }
+    .book-menu-wrap .inputs-wrap > div:nth-child(2n+2) {
+      padding-left: 10px;
+      padding-right: 0; }
